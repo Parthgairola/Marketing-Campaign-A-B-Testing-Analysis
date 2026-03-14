@@ -1,8 +1,8 @@
 # Marketing Campaign A/B Testing Analysis
 
-📄 **Analytics Requirement Document (ARD):**  
+ **Analytics Requirement Document (ARD):**  
 Defines the business context, stakeholder questions, and initial exploratory analysis performed before the final report and recommendations.
-🔗 [View ARD (Google Sheets)](https://docs.google.com/spreadsheets/d/13TjVEB9KXNQ7kbYN8L4q4sEpdWbEXun5BLAmjinXuBA/edit?usp=sharing)
+ [View ARD (Google Sheets)](https://docs.google.com/spreadsheets/d/13TjVEB9KXNQ7kbYN8L4q4sEpdWbEXun5BLAmjinXuBA/edit?usp=sharing)
 
 ---
 

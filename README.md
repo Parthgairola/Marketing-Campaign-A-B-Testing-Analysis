@@ -3,6 +3,9 @@
  **Analytics Requirement Document (ARD):**  
 Defines the business context, stakeholder questions, and initial exploratory analysis performed before the final report and recommendations.
  [View ARD (Google Sheets)](https://docs.google.com/spreadsheets/d/13TjVEB9KXNQ7kbYN8L4q4sEpdWbEXun5BLAmjinXuBA/edit?usp=sharing)
+ 
+ **Dataset:** Here you can find information about the dataset used in this analysis.  
+ [View Dataset](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
 
 ---
 

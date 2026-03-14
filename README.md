@@ -1,5 +1,10 @@
 # Marketing Campaign A/B Testing Analysis
 
+📄 **Analytics Requirement Document (ARD):**  
+🔗 [View ARD (Google Sheets)](PASTE_YOUR_GOOGLE_SHEET_LINK_HERE)
+
+---
+
 ## Project Background
 
 An online platform wanted to understand whether showing users **advertisements** increases product conversions.
@@ -13,7 +18,7 @@ The goal of the experiment was to determine whether advertisements lead to a **h
 
 ---
 
-# Dataset Overview
+## Dataset Overview
 
 The dataset contains **~580,000 user observations** from a marketing campaign experiment.
 
@@ -28,9 +33,9 @@ Each record includes:
 
 ---
 
-# Key Experiment Result
-----
+## Key Experiment Result
 
+![Conversion Rate Comparison](images/advspsa.png)
 
 The experiment compares the conversion rate between users who saw advertisements and users who saw a PSA message.
 
@@ -42,7 +47,7 @@ This initial comparison suggests that showing ads may improve user conversions.
 
 ---
 
-# Statistical Validation
+## Statistical Validation
 
 To confirm whether the observed difference is meaningful, a statistical test was performed.
 
@@ -55,7 +60,7 @@ The statistical test produced a **p-value below 0.05**, which is a common thresh
 
 ---
 
-# Business Impact
+## Business Impact
 
 To understand the practical impact of the experiment, the improvement in conversion rate was calculated.
 
@@ -65,9 +70,9 @@ To understand the practical impact of the experiment, the improvement in convers
 
 ---
 
-# Supporting Behavioral Insights
+## Supporting Behavioral Insights
 
-## Hour-wise Conversion Rate
+### Hour-wise Conversion Rate
 
 ![Hour Wise Conversion Rate](images/hourwise.png)
 
@@ -81,7 +86,7 @@ This suggests that **ad timing may influence user engagement and purchasing beha
 
 ---
 
-## Day-wise Conversion Rate
+### Day-wise Conversion Rate
 
 ![Day Wise Conversion Rate](images/daywise_conv.png)
 
@@ -95,9 +100,9 @@ This may indicate that users are **more likely to make purchasing decisions duri
 
 ---
 
-# Final Recommendation
+## Final Recommendation
 
-Based on the experiment results, several conclusions can be drawn:
+Based on the experiment results:
 
 - Showing advertisements leads to **higher user conversion rates compared to PSA messages**.
 - The improvement is **statistically significant and unlikely to be caused by random variation**.

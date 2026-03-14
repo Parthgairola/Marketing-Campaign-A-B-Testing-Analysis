@@ -29,8 +29,8 @@ Each record includes:
 ---
 
 # Key Experiment Result
+----
 
-![Conversion Rate: Ad vs PSA](images/ad_vs_psa.png)
 
 The experiment compares the conversion rate between users who saw advertisements and users who saw a PSA message.
 

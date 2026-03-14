@@ -1,7 +1,7 @@
 # Marketing Campaign A/B Testing Analysis
 
 📄 **Analytics Requirement Document (ARD):**  
-🔗 [View ARD (Google Sheets)](PASTE_YOUR_GOOGLE_SHEET_LINK_HERE)
+🔗 [View ARD (Google Sheets)](https://docs.google.com/spreadsheets/d/13TjVEB9KXNQ7kbYN8L4q4sEpdWbEXun5BLAmjinXuBA/edit?usp=sharing)
 
 ---
 
